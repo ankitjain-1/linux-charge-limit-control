@@ -1,4 +1,4 @@
-# Set Your Ubuntu Machine's Charge Limit
+# Set Your Linux Machine's Charge Limit
 
 <h5 style="color: red;">First check whether your system has this file</h2>
 
